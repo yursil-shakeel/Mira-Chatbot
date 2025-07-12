@@ -1,0 +1,62 @@
+{
+  "id": "743c5afb-abd2-4219-a5b7-cad5ead0681a",
+  "parentId": "28f88b4b-0982-447a-8789-f03237d625a2",
+  "rootParentId": "28f88b4b-0982-447a-8789-f03237d625a2",
+  "name": "yes.for.admission",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes",
+      "affectedContexts": [
+        {
+          "name": "yesforadmission-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "40f81f26-6e64-4996-88fd-8d21d76223d1",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! Admission se pehle ek simple eligibility check kar lete hain.\nKya aapne 12vi class mein Biology liya tha?",
+            "Bahut badhiya! Ab main yeh jaan na chahti hoon – kya aapne 12th mein Biology padha tha?",
+            "Shandar! Ab main bas ek chhoti si eligibility check karungi.\nKya aapke 12th ke subjects mein Biology tha?",
+            "Bahut accha! Admission ke liye ek chhoti eligibility check karte hain.\nKya aapne 12vi mein Biology padha hai?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

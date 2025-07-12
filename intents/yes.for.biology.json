@@ -1,0 +1,77 @@
+{
+  "id": "4f604c57-a9ea-400e-9fbf-89f68e807ce4",
+  "parentId": "743c5afb-abd2-4219-a5b7-cad5ead0681a",
+  "rootParentId": "28f88b4b-0982-447a-8789-f03237d625a2",
+  "name": "yes.for.biology",
+  "auto": true,
+  "contexts": [
+    "yesforadmission-followup",
+    "dt"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.yesforadmission-yes",
+      "affectedContexts": [
+        {
+          "name": "admission_info_mode",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dba84fef-b656-494f-af6c-9dd77430bfb4",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fa99a748-88aa-4724-9302-7ec0193d1ff8",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Awesome! Aapka Biology subject aapko Nursing program ke liye qualify karta hai. Kya main aapko course ke baare mein bataun?",
+            "Badhiya! Aapke paas Biology hai, iska matlab aap admission ke liye eligible hain. Kya aap program ke details dekhna chahein?",
+            "Perfect! Aapka Biology background aapko admission ke liye suitable banata hai. Kya aap course details jaanna chahenge?",
+            "Great! Aap admission ke criteria ko fulfill karte hain. Kya aapko B.Sc Nursing program ke details chahiye?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

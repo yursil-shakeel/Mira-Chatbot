@@ -1,0 +1,43 @@
+{
+  "id": "7195c947-12fc-4714-8207-9813e1f80905",
+  "name": "seats.info",
+  "auto": true,
+  "contexts": [
+    "pd"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "pd",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "\"B.Sc Nursing program mein har saal total 60 seats available hoti hain.\"\n❓ \"Kya aap scholarships, fees, ya hostel ke baare mein bhi jaan na chahenge?\"",
+            "\"Is course ke liye sirf 60 seats available hain – admission early karna behtar hota hai.\"\n❓ \"Main aapko scholarship ya training ke baare mein bhi bata sakti hoon. Interested?\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
