@@ -1,37 +1,59 @@
-link: https://console.dialogflow.com/api-client/demo/embedded/86fd4f4b-28d8-4ce5-ad28-1de2ef035daa
+# 🩺 Nursing College Admission Chatbot
 
-Chatbot for Nursing College Admission Process
+**🔗 Demo:** [Try the Chatbot](https://console.dialogflow.com/api-client/demo/embedded/86fd4f4b-28d8-4ce5-ad28-1de2ef035daa)
 
-Nursing College Chatbot
-Project Overview
-This is a conversational AI chatbot developed for the Nursing College Admission Process. The chatbot assists prospective students by guiding them through the eligibility criteria, program details, fee structure, and scholarships.
+---
 
-Key Deliverables
-Submission Guidelines:/
+## 📘 Project Overview
 
-Structure, clarity, and creativity of the conversation flow.
-Logical progression, user-friendliness, and alignment with user intent.
-User Interaction & Response Handling (45%):
+This project is a **conversational AI chatbot** designed to streamline the **B.Sc Nursing admission process** for prospective students. Built using **Google Dialogflow**, the bot provides accurate and user-friendly guidance on admission requirements, program details, fees, scholarships, and more.
 
-Ability to manage varied user responses (positive/negative).
-Maintain tone consistency and create a natural, professional interaction.
-Information Accuracy & Completeness (10%):
+---
 
-Accuracy of the information provided.
-Inclusion of all required topics and completeness of the assistant’s replies.
-Key Features of the Chatbot
-Eligibility Check based on Biology in 12th grade.
-Program Details about B.Sc Nursing.
-Fee Structure with installment information.
-Scholarships available for eligible students.
-Hostel and Training Facilities information.
-Clinical Training Locations and College Recognition.
-Setup Instructions
-Dialogflow Configuration:
-Export your Dialogflow agent (ZIP file) and import it into your Dialogflow console.
-Setup intents, contexts, and entities as per the configuration files.
-Running the Bot:
-Dialogflow Web Demo integration can be used to embed the chatbot on your website.
-You can also integrate the bot on Facebook Messenger, Slack, or Google Assistant using the respective integrations.
-License
-This project is licensed under the MIT License.
+## ✅ Key Features
+
+- 🎓 **Eligibility Check**: Validates if the student had Biology in 12th grade.
+- 📚 **Program Information**: Details about the B.Sc Nursing curriculum and structure.
+- 💰 **Fee Structure**: Breakdown of total fees and installment options.
+- 🎓 **Scholarships**: Information about available merit-based and need-based scholarships.
+- 🏠 **Hostel & Training Facilities**: Accommodation and infrastructure details.
+- 🏥 **Clinical Training & Recognition**: Insights on training hospitals and institutional affiliations.
+
+---
+
+## 📄 Submission Guidelines
+
+Deliverables include:
+
+- A structured **PDF document** outlining the conversation flow.
+- An optional **visual chatbot flow diagram** for clarity.
+
+---
+
+## 🧠 Evaluation Criteria
+
+| Area                           | Weight |
+|--------------------------------|--------|
+| 💬 **Conversation Design & Flow** | 45%    |
+| 🎯 **User Interaction Handling**  | 45%    |
+| 📑 **Information Accuracy**      | 10%    |
+
+---
+
+## ⚙️ Setup Instructions
+
+### Dialogflow Configuration
+
+1. Import the provided Dialogflow agent ZIP into your Dialogflow console.
+2. Set up intents, contexts, and entities based on project requirements.
+
+### Deployment Options
+
+- **Web Integration**: Use Dialogflow Messenger or web demo to embed the chatbot.
+- **Other Platforms**: Integrate with Facebook Messenger, Slack, or Google Assistant.
+
+---
+
+## 🛡️ License
+
+This project is released under the **MIT License**, allowing free use, modification, and distribution.
