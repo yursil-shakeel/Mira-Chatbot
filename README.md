@@ -1,4 +1,5 @@
 # 🍽️ Restaurant Chatbot
+**🔗 Demo:** [Click here to try the chatbot](https://bot.dialogflow.com/e1628923-f06c-408d-917d-d1e07d96d091)
 
 ---
 
