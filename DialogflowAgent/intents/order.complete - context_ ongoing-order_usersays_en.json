@@ -1,0 +1,145 @@
+[
+  {
+    "id": "48f90c00-f87d-46d0-821c-b72ba322e227",
+    "data": [
+      {
+        "text": "Order is done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e491272d-7f79-4135-86a6-38b260c5400b",
+    "data": [
+      {
+        "text": "No more items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e58c097f-8206-4bd5-8f6f-f3363a5b1f2f",
+    "data": [
+      {
+        "text": "Finished ordering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1c266c2-5395-4521-baa9-62fd3e800e19",
+    "data": [
+      {
+        "text": "I\u0027ve completed my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8d0c010-8122-4da1-b12a-e9e77bc752e5",
+    "data": [
+      {
+        "text": "That\u0027s all for now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b724b1ab-192e-4967-841d-69b537bc8c40",
+    "data": [
+      {
+        "text": "That\u0027s it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75870884-9f9a-4514-809c-480e33239707",
+    "data": [
+      {
+        "text": "Done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0efa86c-3128-4447-8b74-c1e68317e6c2",
+    "data": [
+      {
+        "text": "Place an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea68e9b6-5a43-4985-aa13-81602f80221b",
+    "data": [
+      {
+        "text": "Done ordering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d7f9e3f-cd05-4bdc-a7be-96190ae99ac4",
+    "data": [
+      {
+        "text": "That\u0027s all I needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d7fb2ad-9410-4516-a105-79c3565268d4",
+    "data": [
+      {
+        "text": "Nope",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
